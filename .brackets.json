@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/wamp/www/ionic/ionic-tutorial/myCordovaApp/_www/lib/ionic/js/angular-ui/angular-ui-router.min.js",
+        "C:/wamp/www/ionic/ionic-tutorial/myCordovaApp/gulpfile.js",
+        "C:/wamp/www/ionic/ionic-tutorial/myCordovaApp/_www/lib/ionic/js/angular/angular.js",
+        "C:/wamp/www/ionic/ionic-tutorial/myCordovaApp/www/js/app.js",
+        "C:/wamp/www/ionic/ionic-tutorial/myCordovaApp/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js"
+    ]
+}
